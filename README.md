@@ -1,4 +1,4 @@
-# suma3
+# suma3 - This repo has been archived and will no longer be maintained or updated- the latest maintained repo for this is at https://github.com/SeaPhor/suma-channel-mgr_5.git
 
 Lifecycle-Management
 - According to "SUSE Manager Best Practices" and "Advanced Patch Lifecycle Management with SUSE Manager" [By Jeff Price, SUSE] ... "SUSE provided channels should NEVER be assigned to managed systems. One reason is that you do not have control over when the content is updated and made available." [Chapter 5-1 of the Administration guide for SUSE Manager and is also in the 2 titles mentioned above.]
